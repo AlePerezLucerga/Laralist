@@ -1,0 +1,43 @@
+{
+  "resources/js/Pages/Dashboard.tsx": {
+    "file": "assets/Dashboard-Dm2CAcDf.js",
+    "name": "Dashboard",
+    "src": "resources/js/Pages/Dashboard.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "resources/js/Pages/ShoppingList.tsx": {
+    "file": "assets/ShoppingList-BARes0jW.js",
+    "name": "ShoppingList",
+    "src": "resources/js/Pages/ShoppingList.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "resources/js/Pages/Welcome.tsx": {
+    "file": "assets/Welcome-BHwy4l0q.js",
+    "name": "Welcome",
+    "src": "resources/js/Pages/Welcome.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "resources/js/app.tsx": {
+    "file": "assets/app-CCmGaOn5.js",
+    "name": "app",
+    "src": "resources/js/app.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Dashboard.tsx",
+      "resources/js/Pages/ShoppingList.tsx",
+      "resources/js/Pages/Welcome.tsx"
+    ],
+    "css": [
+      "assets/app-D_pS90wg.css"
+    ]
+  }
+}
